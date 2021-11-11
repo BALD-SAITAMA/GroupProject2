@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS Pinterest;
+CREATE DATABASE Pinterest;
